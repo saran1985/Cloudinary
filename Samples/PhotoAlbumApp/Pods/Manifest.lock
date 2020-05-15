@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Cloudinary (2.8.0):
+    - Alamofire (~> 4.8.2)
+  - GradientCircularProgress (3.13.0)
+
+DEPENDENCIES:
+  - Cloudinary (~> 2.0)
+  - GradientCircularProgress (from `https://github.com/keygx/GradientCircularProgress`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cloudinary
+
+EXTERNAL SOURCES:
+  GradientCircularProgress:
+    :git: https://github.com/keygx/GradientCircularProgress
+
+CHECKOUT OPTIONS:
+  GradientCircularProgress:
+    :commit: 9e2dc60d335ee6eb3677bfd9f965f0ade3607f4c
+    :git: https://github.com/keygx/GradientCircularProgress
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Cloudinary: 57c51232648d18bd242db1774c8fa80476c58795
+  GradientCircularProgress: f5a04b862adc1fbafbd21c0ff450ed7d74d1926e
+
+PODFILE CHECKSUM: 4eee80c988b302a823a8b60ec2a27a182ace74ff
+
+COCOAPODS: 1.8.4
